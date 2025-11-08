@@ -1,2 +1,0 @@
-# Pau1
-Aplicación
